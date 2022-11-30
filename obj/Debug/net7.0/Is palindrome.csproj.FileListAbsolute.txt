@@ -1,0 +1,15 @@
+C:\Mon_Code\Is palindrome\bin\Debug\net7.0\Is palindrome.exe
+C:\Mon_Code\Is palindrome\bin\Debug\net7.0\Is palindrome.deps.json
+C:\Mon_Code\Is palindrome\bin\Debug\net7.0\Is palindrome.runtimeconfig.json
+C:\Mon_Code\Is palindrome\bin\Debug\net7.0\Is palindrome.dll
+C:\Mon_Code\Is palindrome\bin\Debug\net7.0\Is palindrome.pdb
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.csproj.AssemblyReference.cache
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.AssemblyInfoInputs.cache
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.AssemblyInfo.cs
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.dll
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\refint\Is palindrome.dll
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.pdb
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\Is palindrome.genruntimeconfig.cache
+C:\Mon_Code\Is palindrome\obj\Debug\net7.0\ref\Is palindrome.dll
